@@ -162,19 +162,19 @@
     size: {
       width: '572rpx',
       height: '572rpx'
-    }, 																			// 转盘宽高
-    bgColors: ['#FFC53F', '#FFED97'], 			// 转盘间隔背景色 支持多种颜色交替
-    fontSize: 10, 													// 文字大小
-    fontColor: '#C31A34', 									// 文字颜色
-    titleMarginTop: 12, 										// 最外文字边距
-    titleLength: 6, 												// 最外文字个数
-    iconWidth: 29.5, 												// 图标宽度
-    iconHeight: 29.5, 											// 图标高度
-    iconAndTextPadding: 4, 									// 最内文字与图标的边距
-    duration: 8000, 												// 转盘转动动画时长
-    rate: 1.5, 															// 由时长s / 圈数得到
+    },                                      // 转盘宽高
+    bgColors: ['#FFC53F', '#FFED97'],       // 转盘间隔背景色 支持多种颜色交替
+    fontSize: 10,                           // 文字大小
+    fontColor: '#C31A34',                   // 文字颜色
+    titleMarginTop: 12,                     // 最外文字边距
+    titleLength: 6                          // 最外文字个数
+    iconWidth: 29.5,                        // 图标宽度
+    iconHeight: 29.5,                       // 图标高度
+    iconAndTextPadding: 4,                  // 最内文字与图标的边距
+    duration: 8000,                         // 转盘转动动画时长
+    rate: 1.5,                              // 由时长s / 圈数得到
     border: 'border: 10rpx solid #FEFAE4;', // 转盘边框
-    ease: 'ease-out'												// 转盘动画
+    ease: 'ease-out'                        // 转盘动画
   };
   ````
 
