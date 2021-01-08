@@ -1,6 +1,6 @@
 {
   "name": "lottery-turntable-for-wx-miniprogram",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "小程序抽奖转盘",
   "miniprogram": "dist",
   "repository": {
