@@ -7,9 +7,7 @@
 
 **先看效果图：**
 
-![效果图](./images/1.png)
-
-![效果图](./images/1.gif)
+![效果图](https://github.com/llf137224350/lottery-turntable-for-wx-miniprogram/blob/main/images/1.gif)
 
 **使用步骤：**
 
@@ -17,7 +15,7 @@
 
 * 步骤一：
 
-  安装依赖或[前往githua下载源码](https://github.com/llf137224350/lottery-turntable-for-wx-miniprogram.git '源码')
+  安装依赖或[前往githua下载源码，拷贝dist目录下的lottery-turntable目录](https://github.com/llf137224350/lottery-turntable-for-wx-miniprogram.git '源码')
 
   ````shell
   npm i lottery-turntable-for-wx-miniprogram
