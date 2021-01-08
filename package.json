@@ -1,11 +1,11 @@
 {
-  "name": "lottery-turntable",
+  "name": "lottery-turntable-for-wx-miniprogram",
   "version": "1.0.0",
   "description": "小程序抽奖转盘",
   "miniprogram": "miniprogram_dist",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/llf137224350/lottery-turntable.git"
+    "url": "git+https://github.com/llf137224350/lottery-turntable-for-wx-miniprogram.git"
   },
   "keywords": [
     "小程序",
@@ -13,12 +13,12 @@
     "转盘"
   ],
   "bugs": {
-    "url": "https://github.com/llf137224350/lottery-turntable/issues"
+    "url": "https://github.com/llf137224350/lottery-turntable-for-wx-miniprogram/issues"
   },
   "author": "い 狂奔的蜗牛",
   "license": "ISC",
   "publishConfig": {
     "access": "public"
   },
-  "homepage": "https://github.com/llf137224350/lottery-turntable#readme"
+  "homepage": "https://github.com/llf137224350/lottery-turntable-for-wx-miniprogram#readme"
 }
