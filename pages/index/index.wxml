@@ -2,7 +2,6 @@
 <view class="container">
  <view class="lottery-turntable">
    <lottery-turntable
-
      data="{{datas}}"
      prize-id="{{prizeId}}"
      count="{{5}}"

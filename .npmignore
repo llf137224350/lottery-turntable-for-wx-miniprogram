@@ -1,1 +1,7 @@
-!components/*
+pages
+app.*
+.*
+sitemap.json
+README.md
+images
+

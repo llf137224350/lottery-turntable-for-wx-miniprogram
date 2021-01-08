@@ -1,8 +1,8 @@
 {
   "name": "lottery-turntable-for-wx-miniprogram",
-  "version": "1.0.0",
+  "version": "1.0.6",
   "description": "小程序抽奖转盘",
-  "miniprogram": "miniprogram_dist",
+  "miniprogram": "dist",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/llf137224350/lottery-turntable-for-wx-miniprogram.git"
@@ -15,6 +15,9 @@
   "bugs": {
     "url": "https://github.com/llf137224350/lottery-turntable-for-wx-miniprogram/issues"
   },
+  "files": [
+    "dist"
+  ],
   "author": "い 狂奔的蜗牛",
   "license": "ISC",
   "publishConfig": {

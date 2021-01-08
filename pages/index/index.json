@@ -1,5 +1,5 @@
 {
   "usingComponents": {
-    "lottery-turntable": "../../components/lottery_turntable/lottery_turntable"
+    "lottery-turntable": "../../dist/lottery_turntable/index"
   }
 }

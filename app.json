@@ -5,7 +5,7 @@
   "window":{
     "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "Weixin",
+    "navigationBarTitleText": "小程序转盘抽奖",
     "navigationBarTextStyle":"black"
   },
   "style": "v2",
