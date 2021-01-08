@@ -7,7 +7,7 @@
 
 **先看效果图：**
 
-![效果图](https://github.com/llf137224350/lottery-turntable-for-wx-miniprogram/blob/main/images/1.gif)
+![效果图](https://img-blog.csdnimg.cn/20210108151142781.gif)
 
 **使用步骤：**
 
