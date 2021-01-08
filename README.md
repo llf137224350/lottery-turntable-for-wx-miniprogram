@@ -6,6 +6,7 @@
 
 
 **先看效果图：**
+或[点击查看动图](https://img-blog.csdnimg.cn/20210108151454287.gif '动图')
 
 ![效果图](https://img-blog.csdnimg.cn/20210108152734456.gif)
 
