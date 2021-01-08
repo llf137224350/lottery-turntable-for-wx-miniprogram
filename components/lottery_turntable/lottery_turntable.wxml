@@ -1,0 +1,31 @@
+<view class="container"
+      style="width: {{size.width}};height: {{size.height}};"
+>
+  <canvas
+    class="turn"
+    canvas-id="turn"
+    id="turn"
+  >
+  </canvas>
+  <block wx:if="{{canvasImgUrl}}">
+    <image
+      class="canvas-img"
+      id="canvas-img"
+      src="{{canvasImgUrl}}"
+      style="{{border}}"
+    ></image>
+    <view class="pointer" wx:if="{{canvasImgUrl}}">
+      <view class="wrapper"
+            hover-class="hover-class"
+            catchtap="luckDrawHandle"
+      >
+        <view class="title">抽奖</view>
+        <view class="count">剩余{{lotteryCount}}次</view>
+      </view>
+    </view>
+  </block>
+  <block wx:else>
+    <view class="init">初始化中...</view>
+  </block>
+</view>
+

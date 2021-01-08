@@ -1,4 +1,15 @@
 <!--index.wxml-->
 <view class="container">
- 1
+ <view class="lottery-turntable">
+   <lottery-turntable
+
+     data="{{datas}}"
+     prize-id="{{prizeId}}"
+     count="{{5}}"
+     config="{{config}}"
+     bindLuckDraw="onLuckDrawHandle"
+     bindNotEnough="onNotEnoughHandle"
+     bindLuckDrawFinish="onLuckDrawFinishHandle"
+   ></lottery-turntable>
+ </view>
 </view>

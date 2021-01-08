@@ -1,0 +1,74 @@
+.container {
+  position: relative;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.container .canvas-img {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  box-sizing: border-box;
+}
+.container .turn {
+  position: absolute;
+  left: -200%;
+  width: 100%;
+  height: 100%;
+}
+.container .pointer {
+  position: absolute;
+  width: 185rpx;
+  height: 224rpx;
+  left: 50%;
+  top: 50%;
+  padding-top: 58rpx;
+  display: flex;
+  justify-content: center;
+  transform: translate(-50%, -59%) translateZ(100px);
+  background: url("https://file.cyzl.com/g001/M06/ED/D5/oYYBAF_zzICAc2HkAAAe9kbfm4E244.png") no-repeat;
+  background-size: 100% 100%;
+  box-sizing: border-box;
+}
+.container .pointer .wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 149rpx;
+  height: 149rpx;
+  background: url("https://file.cyzl.com/g001/M06/ED/D6/oYYBAF_zzK-AGd8uAAAWuZw4Ekc613.png") no-repeat;
+  background-size: 100% 100%;
+  box-sizing: border-box;
+  transition: all 0.5s;
+}
+.container .pointer .wrapper.hover-class {
+  position: relative;
+  transform: scale(0.96);
+  transform-origin: center center;
+}
+.container .pointer .wrapper .title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 32rpx;
+  font-size: 32rpx;
+  color: #fff;
+}
+.container .pointer .wrapper .count {
+  margin-top: 10rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 20rpx;
+  font-size: 20rpx;
+  color: #fff;
+}
+.container .init {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  color: #999;
+  font-size: 24rpx;
+}
