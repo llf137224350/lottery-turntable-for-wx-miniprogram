@@ -168,7 +168,7 @@
     fontSize: 10,                           // 文字大小
     fontColor: '#C31A34',                   // 文字颜色
     titleMarginTop: 12,                     // 最外文字边距
-    titleLength: 6                          // 最外文字个数
+    titleLength: 6,                         // 最外文字个数
     iconWidth: 29.5,                        // 图标宽度
     iconHeight: 29.5,                       // 图标高度
     iconAndTextPadding: 4,                  // 最内文字与图标的边距
